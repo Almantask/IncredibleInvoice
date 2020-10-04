@@ -1,2 +1,2 @@
-# IncredibleInvoice
+# Incredible Invoice
 Invoice generator application
